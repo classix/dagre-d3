@@ -11,3 +11,8 @@ For more details, including examples and configuration options, please see our
 
 dagre-d3 is licensed under the terms of the MIT License. See the LICENSE file
 for details.
+
+
+## Für ClassiX-Developer (OD: 06.07.2018):
+
+Bitte benutzt die zwei Tasks js:build and js:copy ... alle anderen Tasks sind nicht unbedingt für ClassiX optimiert worden.
